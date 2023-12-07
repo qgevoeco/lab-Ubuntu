@@ -1,3 +1,6 @@
+# Cleanup snap package versions
+Run the file (or just copy/paste) the code in `cleanup_snap.sh` in a terminal - with `sudo`.
+
 # Old Linux Header delete
   - Show the installed kernels. Each will have the 2.6.xx-yy numbers in them.
 ```
